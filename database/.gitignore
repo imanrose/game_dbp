@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment / local configs
+.env
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
